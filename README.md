@@ -46,6 +46,7 @@ El líder de equipo es el encargado de validar las herramientas y tecnologías. 
 *Skills-Delivery Manager:*
 Ésta persona cuenta con toda la información de los trabajadores, herramientas, rubros y proyectos de Everis. Tiene diversos filtros a su disposición en el que puede seleccionar el mejor Match de manera rápida y sencilla.
 
+
 ![](https://i.ibb.co/JjNTC7s/sdm-1.png)
 ![](https://i.ibb.co/LNS3Kvt/sdm-2.png)
 
